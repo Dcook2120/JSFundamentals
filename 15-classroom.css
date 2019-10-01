@@ -1,0 +1,12 @@
+body {
+    background-color:lightskyblue;
+}
+
+#movies{
+    font-style: italic;
+    text-align:center;
+    border-style:solid;
+    border-color:black;
+}
+
+
